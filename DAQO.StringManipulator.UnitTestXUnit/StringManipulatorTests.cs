@@ -14,26 +14,26 @@ public class StringManipulatorTests
     public void ReverseString_InputIsHello_ShouldReturnOlleh()
     {
         // Arrange
-        var input = "Hello";
+        var input = "Hola";
 
         // Act
         var result = _stringManipulator.ReverseString(input);
 
         // Assert
-        Assert.Equal("olleH", result);
+        Assert.Equal("aloH", result);
     }
 
     [Fact]
     public void RemoveSpaces_InputHasSpaces_ShouldRemoveAllSpaces()
     {
         // Arrange
-        var input = "H e l l o";
+        var input = "H o l a";
 
         // Act
         var result = _stringManipulator.RemoveSpaces(input);
 
         // Assert
-        Assert.Equal("Hello", result);
+        Assert.Equal("Hola", result);
     }
 }
 
