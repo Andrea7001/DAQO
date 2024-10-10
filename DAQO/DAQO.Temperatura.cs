@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAQO
 {
-    namespace DAQT.Temperatura
+    namespace DAQO.Temperatura
     {
         public class ConvertidorTemperatura
         {
