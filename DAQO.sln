@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQO", "DAQO\DAQO.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQO.Temperatura.UnitTestMSTest", "DAQO.Temperatura.UnitTestMSTest\DAQO.Temperatura.UnitTestMSTest.csproj", "{88CB5878-0E05-405D-A2EC-AE14A7AC644A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQO.StringManipulator.UnitTestXUnit", "DAQO.StringManipulator.UnitTestXUnit\DAQO.StringManipulator.UnitTestXUnit.csproj", "{B9DAF006-7AB0-42CE-B2B3-E516795AED74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DAF006-7AB0-42CE-B2B3-E516795AED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DAF006-7AB0-42CE-B2B3-E516795AED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DAF006-7AB0-42CE-B2B3-E516795AED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DAF006-7AB0-42CE-B2B3-E516795AED74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
