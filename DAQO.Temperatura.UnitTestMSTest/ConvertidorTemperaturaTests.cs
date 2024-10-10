@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DAQO.DAQT.Temperatura;
+using DAQO.DAQO.Temperatura;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAQO.DAQT.Temperatura.Tests
+namespace DAQO.DAQO.Temperatura.Tests
 {
     [TestClass]
     public class ConvertidorTemperaturaTests
