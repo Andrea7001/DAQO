@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQO", "DAQO\DAQO.csproj", "{D27398E2-BA68-453F-A609-0013BC13FAAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQO.Temperatura.UnitTestMSTest", "DAQO.Temperatura.UnitTestMSTest\DAQO.Temperatura.UnitTestMSTest.csproj", "{88CB5878-0E05-405D-A2EC-AE14A7AC644A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D27398E2-BA68-453F-A609-0013BC13FAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D27398E2-BA68-453F-A609-0013BC13FAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D27398E2-BA68-453F-A609-0013BC13FAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CB5878-0E05-405D-A2EC-AE14A7AC644A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
